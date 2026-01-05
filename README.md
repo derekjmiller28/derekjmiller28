@@ -64,7 +64,7 @@ A foundational SQL project where I focused on writing clear queries and answerin
 ## 📫 Connect With Me
 
 - Email: derekjmiller28@gmail.com
-- LinkedIn: https://www.linkedin.com/in/derek-j-miller/
+- [View LinkedIn Profile](https://www.linkedin.com/in/derek-j-miller/) 
 
 
 Thanks for visiting my profile—feel free to explore the projects and follow along as I grow into a data analyst.
