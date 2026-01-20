@@ -48,7 +48,7 @@ A foundational SQL project where I focused on writing clear queries and answerin
   - Examined the distribution of order statuses and calculated the percentage of orders that were returned. 
 - **Key takeaway:** The key takeaway from this analysis is that a small set of product categories and individual products drive the majority of revenue and volume, while overall metrics like AOV, average quantity per order, and unique customers provide a clear baseline for typical sales behavior and performance. These insights, combined with the distribution of order statuses and return rates, highlight both the strongest revenue drivers and potential operational issues around fulfillment and returns.  
 
-👉 [View the project](amazonSQL_PROJECT.sql)
+👉[View the project](amazonSQL_PROJECT.sql)
 
 ---
 
