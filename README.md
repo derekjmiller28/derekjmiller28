@@ -27,13 +27,16 @@ Currently learning:
 ### 1️⃣ Excel Analysis – Ecommerce Sales Dashboard
 A beginner-friendly Excel project where I explored a small dataset and practiced core analyst skills.
 
-- **Goal:** Briefly state the business-style question you tried to answer  
+- **Goal:** Extract raw data to generate an interactive dashboard that can convert data into useful business insights. 
 - **What I did:**  
   - Cleaned and organized raw data (removed duplicates, standardized formats)  
   - Built pivot tables to summarize key metrics  
   - Created charts to highlight trends and patterns  
-- **Key takeaway:** Short, insight-focused sentence (e.g., “Identified which product category drove most of the revenue and when demand peaked.”)  
-
+- **Key takeaway:**
+  - Order volume is evenly distributed across countries, indicating balanced global demand  
+  - Campaign performance varies significantly by country, suggesting the need for localized marketing strategies
+  - Conversion from visit to order is ~18%, indicating optimization opportunities in the purchase funnel
+  
 👉 [View the project](https://github.com/derekjmiller28/Exploratory_Data_Analsys/blob/eba20c042ff50c0cc34c888df852b06a9b874e1d/Exploratory_Data_Analysis.png)
 
 ---
