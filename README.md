@@ -34,7 +34,7 @@ A beginner-friendly Excel project where I explored a small dataset and practiced
   - Created charts to highlight trends and patterns  
 - **Key takeaway:** Short, insight-focused sentence (e.g., “Identified which product category drove most of the revenue and when demand peaked.”)  
 
-👉 [View the project](Exploratory_Data_Analysis.png)
+👉 [View the project](https://github.com/derekjmiller28/Exploratory_Data_Analsys/blob/eba20c042ff50c0cc34c888df852b06a9b874e1d/Exploratory_Data_Analysis.png)
 
 ---
 
@@ -48,7 +48,8 @@ A foundational SQL project where I focused on writing clear queries and answerin
   - Examined the distribution of order statuses and calculated the percentage of orders that were returned. 
 - **Key takeaway:** The key takeaway from this analysis is that a small set of product categories and individual products drive the majority of revenue and volume, while overall metrics like AOV, average quantity per order, and unique customers provide a clear baseline for typical sales behavior and performance. These insights, combined with the distribution of order statuses and return rates, highlight both the strongest revenue drivers and potential operational issues around fulfillment and returns.  
 
-👉[View the project](amazonSQL_PROJECT.sql)
+👉[View the project](https://github.com/derekjmiller28/Ecommerce-sales-SQL-analysis/blob/b0137fef7438bcc3de32188114e01e83e4ebfe7a/amazonSQL_PROJECT.sql)
+
 
 ---
 
