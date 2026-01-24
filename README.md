@@ -37,7 +37,7 @@ A beginner-friendly Excel project where I explored a small dataset and practiced
   - Campaign performance varies significantly by country, suggesting the need for localized marketing strategies
   - Conversion from visit to order is ~18%, indicating optimization opportunities in the purchase funnel
   
-👉 [View the project](https://github.com/derekjmiller28/Exploratory_Data_Analsys/blob/eba20c042ff50c0cc34c888df852b06a9b874e1d/Exploratory_Data_Analysis.png)
+👉 [View the project](README.md)
 
 ---
 
